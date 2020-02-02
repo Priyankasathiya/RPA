@@ -1,0 +1,64 @@
+ServiceNow Account Login 
+
+Kindly follow these steps to create an account in ‘ServiceNow’ web app.  
+
+  Go to this link https://developer.servicenow.com  
+  Click the Sign-Up button to set up an account – it will redirect to another 
+page (refer the image) in the next tab. 
+
+  
+
+ Fill up the fields with relevant data and click the ‘Sign Up’ button 
+by checking the checkbox – Once you’re done with the Sign Up 
+an email will be sent to you. Now check your email and click the 
+‘Verify Email’ button. 
+ Now  check  your  email  that  has  been  sent  you  and  click  the 
+‘Verify Email’ button. 
+ Login to the site with the authentication that you’ve given. 
+ Accept the service agreement license by agreeing to it – check 
+the accept checkbox and click Submit, which will redirect to a 
+new page (same tab).  
+
+ Here you’d be asked to fill a questionnaire (Feel free to provide 
+your data) 
+
+ 
+
+ Now hover on the ‘MANAGE’ option in the navigation bar, click 
+on the dropdown option ‘Instance’.  
+
+ Upon  clicking  ‘Instance’  you’ll  be  redirected  to  a  page  where 
+there will be a button named ‘Request Instance’ – Click on it. 
+
+ 
+
+ Now  type  “for  automation  testing”  in  the  textbox  that  has 
+popped up.  
+
+ Select  London  by  clicking  on  it  and  click  ‘Request  Instance’ 
+button 
+
+ 
+
+ Scroll down in the newly loaded page where you can see your 
+‘Username  and  Password’  –  kindly  note  or  copy  /  past  it 
+somewhere for future references | Now click the link below URL  
+
+ 
+
+ Log  in  with  your  authentication  –  now  type  the  username  as 
+‘admin’  and  type  the  password  that  you  copied  from  the 
+previous page/step.   
+
+ Now  you  need  to  set  a  new  password  |  type  your  current 
+password and set a new password according to the standards. 
+
+ 
+
+ Wait for few seconds until you see these web elements on the 
+page  (refer  image)  –  once  your  page  looks  like  the  image 
+attached below then you’re all set to go.   
+
+ 
+
+ 
